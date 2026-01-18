@@ -5,10 +5,13 @@
 
 #### BOM:
   - [ ] Microcontroller: Arduino Uno 
-  - [ ] Sensing: HC-SR04 Ultrasonic distance sensor
-  - [ ] Actuation: 3 x SG90 Micro-servos (1 for the radar scan, 2 for the 3D wand movement)
+  - [ ] Sensing: Ultrasonic distance sensor
+  - [ ] Actuation: 3 x Micro-servos (1 for the radar scan, 2 for the 3D wand movement)
   - [ ] Power: 9V DC Source (Battery or external supply)
   - [ ] Hardware: Base Housing (Protective enclosure and mechanical wand)
+
+#### Tutorial 
+Sonar system: https://www.youtube.com/watch?v=61HriLtiiVQ
 
 #### Q1 - What is the system boundary?
   - [ ] The system boundary is defined by the base housing, which is the physical enclosure that separates the internal electronics from the external environment.
