@@ -6,7 +6,7 @@
 #### BOM:
   - [ ] Microcontroller: Arduino Uno 
   - [ ] Sensing: Ultrasonic distance sensor
-  - [ ] Actuation: 3 x Micro-servos (1 for the radar scan, 2 for the 3D wand movement)
+  - [ ] Actuation: 3 x Servo motors (1 for the radar scan, 2 for the 3D wand movement)
   - [ ] Power: 9V DC Source (Battery or external supply)
   - [ ] Hardware: Base Housing (Protective enclosure and mechanical wand)
 
